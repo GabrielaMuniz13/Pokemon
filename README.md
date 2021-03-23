@@ -2,6 +2,6 @@
 
 Desafio da Imersão Dev proporcionado pela Alura.
 
-* Objetivo: Advinhar o nome do Pokémon ilustrado na página.
+* Objetivo: Adivinhar o nome do Pokémon ilustrado na página.
 
 * Tecnologia usadas: HTML5, CSS3 e JavaScript.
